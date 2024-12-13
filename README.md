@@ -33,9 +33,11 @@ Screenshots
 ![image](https://github.com/user-attachments/assets/47f7a952-aea7-4e07-9810-9a2ff0302d08)
 
 Contributing
+
 Contributions are welcome! Please open an issue or submit a pull request to suggest improvements or add features.
 
 License
+
 This project is licensed under the MIT License.
 
 
