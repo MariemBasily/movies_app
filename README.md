@@ -24,6 +24,8 @@ Option to "See All"
 Scrollable movie list with larger thumbnails.
 
 Screenshots
+
+
 ![image](https://github.com/user-attachments/assets/2e59f71d-ba4c-4fd9-b8ad-e8599dd56833)
 
 ![image](https://github.com/user-attachments/assets/3bbdfdd5-d96a-494f-b2d8-c3cc6023ee9e)
